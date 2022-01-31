@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="user_name_label">Имя пользователя</string>
+    <string name="user_name_placeholder">Введите ваше имя</string>
+    <string name="user_email_label">Электронная почта</string>
+    <string name="user_email_placeholder">Введите email</string>
+    <string name="ok_button">Ок</string>
+    <string name="clear_button">Очистить</string>
+    <string name="error_text">Все поля обязательны для ввода</string>
+    <string name="result_text">Подписка на рассылку успешно оформлена для пользователя %1$s на электронный адрес %2$s</string>
+    <string name="result_text_second"> на электронный адрес </string>
+</resources>
